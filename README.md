@@ -1,6 +1,6 @@
 # Enigma
 
-Programma che permette di cifrare i tuoi messaggi tramite:
+Programma che permette di cifrare i tuoi messaggi tramite 3 divesi cifrari:
 
 :white_circle:	Cifrario di Cesare
 
