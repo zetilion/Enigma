@@ -1,0 +1,10 @@
+Cesare:     key=5     word=wj
+
+Vigenère:   key=gg    word=vr
+
+Polibio:    Coordinates: 13 34
+
+mettere le parole in sequenza per comporre la password TUTTA IN MINUSCOLO necessario per  l'apertura del file nascosto.
+DEVE aiutarsi con il programma Enigma.  Buon Divertimento.
+
+Si CONSIGLIA l'utilizzo di DevC++ oppure copie di esse, Replit è scadente.
